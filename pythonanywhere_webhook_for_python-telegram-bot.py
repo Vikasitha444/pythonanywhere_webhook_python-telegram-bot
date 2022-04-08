@@ -1,7 +1,7 @@
 
 
 api_key = "asdasdasdasda5465as4d6a5s4d65as";
-server_url = "https://pawanvikasitha.pythonanywhere.com/";
+server_url = "https://YOUR_USERNAME.pythonanywhere.com/";
 
 
 #setting up the webhook - place this code under the def main()-> none
